@@ -8,7 +8,7 @@ public class latihan3 {
         
         System.out.println("Nama Saya \t: " + nama);
         System.out.println("Umur saya \t: " + umur + "tahun");
-        System.out.println("Tinggi Badan saya \t: " + tinggiBadan +"cm");
+        System.out.printf("Tinggi badan saya \t:%.2fcm", tinggiBadan);
         
         
         
