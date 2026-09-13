@@ -4,7 +4,7 @@ public class latihan3 {
         
         String nama = "Abdul Rahman";
         int umur = 18;
-        double tinggiBadan = 160.2;
+        double tinggiBadan = 160.25;
         
         System.out.println("Nama Saya \t: " + nama);
         System.out.println("Umur saya \t: " + umur + "tahun");
